@@ -1,4 +1,17 @@
-### Hi there 👋
+### 哈囉 👋
+
+我係一個香港人，由中一開始成為CMAss Robotics Team嘅一份子，而家喺IVE讀緊SE。
+
+我非常關心點樣用工具去加快工作效率同減低出錯嘅機會，因為咁，我好鍾意發明小工具、自動化腳本等等。我推崇使用自由軟件，亦都樂意喺開源項目上作出貢獻。
+
+用緊：JS, Python, C#, C++, C, Java, Android Studio, PHP, SQL, Arduino, Bash<br/>
+識：Unity, Perl, Visual Basic, Lua, MATLAB, Scratch 等等...
+
+<br/>
+
+📫 聯絡方法：[Email](mailto:me@jerryio.com), [Instagram](https://www.instagram.com/jerrylum.hk/), [Fax (don't)](https://github.com/404/)<br/>
+⚡ 趣事：我有專業嘅PowerPoint技能，可以做複雜特效，同Premiere、Flash相媲美。
+
 
 <!--
 **Jerrylum/jerrylum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
