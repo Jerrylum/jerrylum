@@ -5,7 +5,7 @@
 我非常關心點樣用工具去加快工作效率同減低出錯嘅機會，因為咁，我好鍾意發明小工具、自動化腳本等等。我推崇使用自由軟件，亦都樂意喺開源項目上作出貢獻。
 
 用緊：JS, Python, C#, C++, C, Java, Android Studio, PHP, SQL, Arduino, Bash<br/>
-識：Unity, Perl, Visual Basic, Lua, MATLAB, Scratch 等等...
+識：Unity, Perl, Go, Visual Basic, Lua, MATLAB, Scratch 等等...
 
 <br/>
 
