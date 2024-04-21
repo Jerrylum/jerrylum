@@ -8,7 +8,9 @@ I have been a member of CMAss Robotics Team since Form 1 and became one of the m
 
 I love to utilize technology to increase working efficiency and reduce the chance of making mistakes. I often use my spare time to make useful tools and automatic scripts.
 
-I encourage the use of free software, and I like to contribute to open-source projects. I am interested in software design, software engineering, requirements engineering, reverse engineering, user-centered design, interaction design, UI/UX, responsive web design, unit testing, VEX robotics, Discord bot, automated scripting, electrical engineering, data protection, privacy and regulation, cybersecurity, blockchain technology, Web3, and more...
+I encourage the use of free software, and I like to contribute to open-source projects.
+
+I am interested in software design, software engineering, requirements engineering, reverse engineering, user-centered design, interaction design, UI/UX, responsive web design, unit testing, VEX robotics, Discord bot, automated scripting, electrical engineering, data protection, privacy and regulation, cybersecurity, blockchain technology, Web3, and more...
 
 * 🌍  I'm based in Hong Kong
 * ✉️  You can contact me at [me@jerryio.com](mailto:me@jerryio.com)
